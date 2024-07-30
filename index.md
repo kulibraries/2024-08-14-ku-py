@@ -78,7 +78,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="registration">Registration</h2>
 
-<p>This is an <strong>in-person</strong> workshop on KU's Lawrence campus. Registration is open and seats are limited. <a href="https://ku.libwizard.com/f/2024-08-14-ku-py" target="_blank">Register here.</a></p>
+<p>This is an <strong>in-person</strong> workshop on KU's Lawrence campus. The workshop is currently full. <a href="https://ku.libwizard.com/f/2024-08-14-ku-py-waitlist" target="_blank">Waitlist here.</a></p>
 
 <h2 id="general">General Information</h2>
 
